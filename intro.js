@@ -4,4 +4,4 @@ const user = [
   programming language: 'HTML',
   ];
 
-const.log(user)
+console.log(user);
